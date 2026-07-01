@@ -26,6 +26,8 @@ Cada vez que se modifique HTML, CSS, JS o assets, se debe seguir este orden:
 3. **Actualizar `AGENTS.md`** si cambian reglas, convenciones o comandos
 4. Verificar que los docs reflejen el estado real del proyecto
 
+> **Nota:** Cambios puramente de contenido (textos, imágenes, colores, variables CSS, etc.) no requieren actualización de `README.md` ni `AGENTS.md`. Solo cambios estructurales (nuevos archivos, nuevas secciones, cambios en la arquitectura del proyecto).
+
 ## Convenciones y estilo de código
 
 - **CSS:** usar variables en `:root`, clases semánticas en inglés con kebab-case, diseño responsivo mobile-first
