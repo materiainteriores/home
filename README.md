@@ -8,7 +8,7 @@ Compatible con **GitHub Pages** — 100% HTML, CSS y JavaScript vanilla. Sin fra
 
 - HTML5 semántico con SEO (Open Graph, Twitter Cards)
 - CSS3 (Flexbox, Grid, variables, media queries, animaciones)
-- JavaScript vanilla (Intersection Observer, smooth scroll)
+- JavaScript vanilla (menú interactivo, navegación)
 - Google Fonts (Montserrat + Cinzel)
 
 ## Estructura
