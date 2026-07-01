@@ -17,6 +17,15 @@ Cada vez que se modifique el proyecto (HTML, CSS, JS, assets, estructura), se de
 - `README.md` — mantener descripción, estructura del proyecto, instrucciones de uso y despliegue al día
 - `AGENTS.md` — mantener reglas, convenciones y comandos actualizados
 
+## Flujo obligatorio al hacer cambios
+
+Cada vez que se modifique HTML, CSS, JS o assets, se debe seguir este orden:
+
+1. Hacer los cambios solicitados (código)
+2. **Actualizar `README.md`** si cambió la estructura, tecnologías o instrucciones
+3. **Actualizar `AGENTS.md`** si cambian reglas, convenciones o comandos
+4. Verificar que los docs reflejen el estado real del proyecto
+
 ## Convenciones y estilo de código
 
 - **CSS:** usar variables en `:root`, clases semánticas en inglés con kebab-case, diseño responsivo mobile-first
